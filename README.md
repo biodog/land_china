@@ -7,3 +7,4 @@
 files目录下为字体文件
 
 font_imgs文件夹下为字体(files/font.ttf)渲染出的文字
+font_table.txt 为对照结果
