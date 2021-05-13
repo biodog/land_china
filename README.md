@@ -9,3 +9,8 @@ files目录下为字体文件
 font_imgs文件夹下为字体(files/font.ttf)渲染出的文字
 
 font_table.txt 为对照结果
+
+# 字体转图片
+可以参考https://github.com/biodog/ttf_to_png
+
+#喜欢请给个star
