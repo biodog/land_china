@@ -13,4 +13,4 @@ font_table.txt 为对照结果
 # 字体转图片
 可以参考https://github.com/biodog/ttf_to_png
 
-#喜欢请给个star
+# 喜欢请给个star
